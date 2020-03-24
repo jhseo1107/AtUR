@@ -1,7 +1,7 @@
 # AtUR
 Automatic User Registration Plugin
 # Install
-Latest: [v1.0.0-1.15.2-alpha](https://github.com/jhseo1107/AtUR/releases/tag/v1.0.0-alpha)<br>
+Latest : [v1.0.0-1.15.2-alpha](https://github.com/jhseo1107/AtUR/releases/tag/v1.0.0-alpha)<br>
 Stable : We are still testing our plugin, sorry!
 # Setup
   1. Run the server with the plugin.
