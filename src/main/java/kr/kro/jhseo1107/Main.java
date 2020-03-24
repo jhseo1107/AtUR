@@ -39,8 +39,6 @@ public class Main extends JavaPlugin{
         else
             langint = 0;
 
-        Bukkit.getConsoleSender().sendMessage(mccommand+" "+bottoken+" "+channelid+" "+roleid+" "+dccommand);
-
         new BotClass(this);
     }
 
