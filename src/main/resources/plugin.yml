@@ -1,0 +1,10 @@
+name: AtUR
+version: 1.0.0
+author: jhseo1107
+description: Automatic User Registeration Service
+
+main: kr.kro.jhseo1107.Main
+commands:
+  atur:
+    description: Plugin Command
+    usage: /atur

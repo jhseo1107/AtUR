@@ -1,0 +1,16 @@
+#config file for AtUR
+#RELOADING THE PLUGIN WILL BREAK IT. DON'T RELOAD.
+minecraft:
+  command: op NICKNAME
+  server-ip: asdf.com
+#prefix "/" will be automatically added
+discord:
+  tokens:
+    bot_token: TOKEN HERE
+    channel_id: ID HERE
+    role_id: ID HERE
+  command: atur
+#prefix "!"will be automatically added
+#example : !atur Olli1107 -> /op Olli1107
+language: en_us
+#supported language : en_us, ko_kr
