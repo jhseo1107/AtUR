@@ -18,13 +18,6 @@ public class Atur implements CommandExecutor{
             sender.sendMessage(ChatColor.WHITE+"made by jhseo1107");
             return true;
         }
-        if(args[0].equals("commandtest"))
-        {
-            String commandtext = Main.mccommand;
-            commandtext = commandtext.replace("NICKNAME",args[1]);
-            Bukkit.dispatchCommand(Bukkit.getConsoleSender(),commandtext);
-            return true;
-        }
         return false;
     }
 }
