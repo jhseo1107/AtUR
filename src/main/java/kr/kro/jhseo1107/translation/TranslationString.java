@@ -10,5 +10,5 @@ public class TranslationString {
     public static final String[] registerstart = new String[]{"Registration Start : ", "등록 시작 : "};
     public static final String[] registerdone = new String[]{"Registration is done. Server ip : ", "등록 성공. 서버 아이피 : "};
     public static final String[] wrongchannel = new String[]{"Wrong Channel.", "채널이 올바르지 않습니다."};
-
+    public static final String[] wrongrole = new String[]{"Wrong Role.", "역할이 올바르지 않습니다."};
 }
