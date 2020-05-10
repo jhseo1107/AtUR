@@ -2,8 +2,8 @@
 Automatic User Registration Plugin
 # Install
 ## Spigot 1.15.2
-Latest : [v1.0.0-1.15.2-alpha](https://github.com/jhseo1107/AtUR/releases/tag/v1.0.0-alpha)<br>
-Stable : We are still testing our plugin, sorry!
+Latest : [v1.0.0-1.15.2](https://github.com/jhseo1107/AtUR/releases/tag/v1.0.0-1.15.2)<br>
+Stable : [v1.0.0-1.15.2](https://github.com/jhseo1107/AtUR/releases/tag/v1.0.0-1.15.2)
 ## Compatiable versions
 These are tested versions. There might still be corruptions with other plugins.
  - [x] Spigot 1.12.2
